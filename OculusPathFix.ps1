@@ -6,6 +6,7 @@
 
 # Inform user of what the script does
 Write-Host "`nThis script will create the necessary registry keys to fix the Oculus OVR88948175 setup issue.`n"
+Write-Host "Created for the IT 3630 class at Mizzou.`n"
 
 # Wait for the user to input a key to continue
 Write-Host "Press any key to continue...`n"
