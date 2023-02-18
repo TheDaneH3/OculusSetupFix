@@ -43,7 +43,8 @@ else {
 }
 
 # Script Complete
-Write-Host "Script Complete`n"
+Write-Host "Script Complete!`n"
+Write-Host "(!) Please restart the Oculus software to apply changes, and then continue the setup process as usual.`n"
 
 # Pause at the end of the script
 Write-Host "Press any key to continue..."
