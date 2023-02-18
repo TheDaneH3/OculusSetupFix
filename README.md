@@ -1,5 +1,5 @@
 # Oculus Setup Library Fix
-Fixes the Oculus OVR88948175 error by editing the Registry
+Fixes the **OVR88948175** error by adding Registry Keys
 
 ![setup-error](setup-error.png)
 
@@ -13,7 +13,7 @@ Fixes the Oculus OVR88948175 error by editing the Registry
 2. Once your PowerShell terminal is open, copy and paste the following launch command into the terminal and press **Enter**.
 
 Launch Command:
-```
+```powershell
 irm https://raw.githubusercontent.com/TheDaneH3/OculusSetupFix/main/fix.ps1 | iex
 ```
 
