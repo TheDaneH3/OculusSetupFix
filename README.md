@@ -7,8 +7,8 @@ Fixes the Oculus OVR88948175 error by editing the Registry
 
 1. Launch a PowerShell terminal
   * The recommended way is to right click on the start menu and select:
-    * "PowerShell As Admin" (*Windows 10*)
-    * "Windows Terminal As Admin" (*Windows 11*)
+    * "Windows PowerShell" (*Windows 10*)
+    * "Terminal" (*Windows 11*)
 
 2. Once your PowerShell terminal is open, copy and paste the following launch command into the terminal and press **Enter**.
 
