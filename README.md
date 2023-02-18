@@ -1,7 +1,7 @@
 # Oculus Setup Library Fix
 Fixes the Oculus OVR88948175 error by editing the Registry
 
-![SetupError](SetupError.png)
+![setup-error](setup-error.png)
 
 ## How to Install
 
